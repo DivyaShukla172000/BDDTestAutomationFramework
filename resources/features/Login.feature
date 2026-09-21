@@ -27,7 +27,7 @@ Scenario Outline: Data Driven Testing Login with Valid and Invalid Creadentials
 	
 	Examples:
 	|Username|Password|
-	|student|Password122|
+	|student|Password112|
 	|student|Password123|
 
 @sanity
